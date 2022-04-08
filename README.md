@@ -11,6 +11,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Pagina](https://llucasgomes.github.io/Lading-Page-iPhone/)
 
 ## 🔖&nbsp; Sobre
 
